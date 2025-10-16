@@ -34,7 +34,7 @@ J’aime concevoir des applications efficaces, maintenables et bien structurées
 
 ## 📫 Me contacter
 📧 levibelhamou@gmail.com  
-💼 [LinkedIn](www.linkedin.com/in/levi-belhamou-bb6222227)  
+💼 [LinkedIn](https://www.linkedin.com/in/levi-belhamou-bb6222227)  
 💻 [GitHub](https://github.com/levi613)
 
 ---
